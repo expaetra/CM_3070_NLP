@@ -1,0 +1,9 @@
+Task,Model,Representation,Accuracy,Macro Precision,Macro Recall,Macro F1,Weighted Precision,Weighted Recall,Weighted F1
+Discipline,Logistic Regression,TF-IDF word unigrams,0.555,0.575,0.478,0.514,0.562,0.555,0.543
+Discipline,Complement NB,TF-IDF word unigrams,0.554,0.534,0.51,0.508,0.556,0.554,0.542
+Discipline,Linear SVM,TF-IDF word unigrams,0.512,0.481,0.47,0.474,0.505,0.512,0.507
+Discipline,Random Forest,TF-IDF word unigrams,0.446,0.443,0.349,0.375,0.447,0.446,0.422
+Field,Logistic Regression,TF-IDF word unigrams,0.509,0.5,0.509,0.5,0.502,0.509,0.501
+Field,Complement NB,TF-IDF word unigrams,0.502,0.485,0.502,0.478,0.487,0.502,0.479
+Field,Linear SVM,TF-IDF word unigrams,0.428,0.419,0.428,0.421,0.421,0.428,0.423
+Field,Random Forest,TF-IDF word unigrams,0.411,0.397,0.41,0.4,0.399,0.411,0.401

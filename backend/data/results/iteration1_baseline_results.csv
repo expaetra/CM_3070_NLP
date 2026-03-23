@@ -1,0 +1,3 @@
+Task,Model,Accuracy,Macro Precision,Macro Recall,Macro F1,Weighted Precision,Weighted Recall,Weighted F1
+Discipline,TF-IDF + Logistic regression,0.559,0.53,0.598,0.552,0.597,0.559,0.555
+Field,TF-IDF + Logistic regression,0.512,0.501,0.512,0.502,0.503,0.512,0.503

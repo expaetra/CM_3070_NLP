@@ -1,0 +1,11 @@
+Task,Model,Representation,Accuracy,Macro Precision,Macro Recall,Macro F1,Weighted Precision,Weighted Recall,Weighted F1
+Discipline,Logistic Regression,"TF-IDF word unigrams (title 1x + abstract, capped discipline)",0.634,0.63,0.632,0.629,0.631,0.634,0.63
+Field,Logistic Regression,"TF-IDF word unigrams (title 1x + abstract, uncapped field)",0.549,0.538,0.549,0.541,0.537,0.549,0.541
+Discipline,Logistic Regression,"TF-IDF word unigrams (title 2x + abstract, capped discipline)",0.633,0.631,0.632,0.629,0.631,0.633,0.63
+Field,Logistic Regression,"TF-IDF word unigrams (title 2x + abstract, uncapped field)",0.551,0.539,0.551,0.543,0.539,0.551,0.543
+Discipline,Logistic Regression,"TF-IDF word unigrams (title 3x + abstract, capped discipline)",0.634,0.631,0.633,0.63,0.631,0.634,0.631
+Field,Logistic Regression,"TF-IDF word unigrams (title 3x + abstract, uncapped field)",0.548,0.537,0.549,0.541,0.537,0.548,0.54
+Discipline,Logistic Regression,"TF-IDF word unigrams (title 4x + abstract, capped discipline)",0.631,0.628,0.63,0.627,0.628,0.631,0.628
+Field,Logistic Regression,"TF-IDF word unigrams (title 4x + abstract, uncapped field)",0.546,0.535,0.546,0.538,0.535,0.546,0.538
+Discipline,Logistic Regression,"TF-IDF word unigrams (title 5x + abstract, capped discipline)",0.626,0.624,0.625,0.622,0.624,0.626,0.623
+Field,Logistic Regression,"TF-IDF word unigrams (title 5x + abstract, uncapped field)",0.543,0.532,0.543,0.535,0.531,0.543,0.535
