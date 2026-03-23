@@ -7,6 +7,8 @@ techniques to academic research papers in PDF format.
 The system allows users to upload PDF documents, automatically extract the abstract section,
 and predict the computer science discipline and field of the paper.
 
+In addition to the application code, the project includes Jupyter notebooks covering the full machine learning pipeline, along with CSV datasets for training and preprocessing, and result CSV files for evaluation and analysis.
+
 
 ## Technologies Used
 
@@ -16,7 +18,7 @@ and predict the computer science discipline and field of the paper.
 - PyPDF (for PDF text extraction) 
 - Pickle (.pkl models for saving/loading trained models)
 
-  ### Frontend
+### Frontend
 - React (Vite) 
 - JavaScript
 - HTML / CSS 
